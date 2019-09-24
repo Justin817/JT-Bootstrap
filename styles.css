@@ -12,6 +12,10 @@
   min-height: 55px;
   padding: 0 15px 5px;
 }
+.flag{
+  height: 55px;
+  width: 120px;
+}
 .navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus .navbar-inverse .navbar-nav .active a:hover{
 color: #FFF;
 background-color: #d5d5d5
